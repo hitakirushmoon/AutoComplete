@@ -1,1 +1,1 @@
-document.getElementsByClassName('btn btn-primary')[0].click();
+// document.getElementsByClassName('btn btn-primary')[0].click();
